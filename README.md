@@ -17,7 +17,7 @@
 
 <h3 align="left">Dasturlash Tillari va Framework'lar:</h3>
 <p align="left"> 
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Flaravel-news.com%2Fwhat-is-laravel&psig=AOvVaw3rghiYHWGO6evv-la2nOyA&ust=1762516358961000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOiFsZ-73ZADFQAAAAAdAAAAABAE)" alt="laravel" width="40" height="40"/> </a>
     <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
