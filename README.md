@@ -13,6 +13,21 @@
 
 ---
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    <a href="https://www.linkedin.com/in/ahmadjon-norimqulov/" target="_blank">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    
+<a href="https://t.me/Ahmadjon0125" target="_blank">
+        <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+    </a>
+
+<a href="mailto:ahmadjon0125@gmail.com">
+        <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+</p>
+
 ## 🛠️ Texnologiyalar va Vositalar
 
 <h3 align="left">Dasturlash Tillari va Framework'lar:</h3>
@@ -45,7 +60,7 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Ahmadjon&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Ahmadjon GitHub Stats" />
     
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadjon&layout=compact&theme=dark&langs_count=6" alt="Ahmadjon Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadjon&layout=compact&theme=dark&langs_count=6" alt="Ahmadjon Top Languages" />
 </p>
 
 ---
