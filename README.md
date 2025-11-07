@@ -1,9 +1,14 @@
+<h1 align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="150" height="150"/></h1>
 <h1 align="center">Hi 👋, I'm Ahmadjon</h1>
 <h3 align="center">A passionate PHP Developer from Uzbekistan 🇺🇿</h3>
 
 ---
+<h2 style="text-align: left;">
+    👨‍💻 Men Haqimda
 
-## 👨‍💻 Men Haqimda
+</h2>
+
+
 
 - 🌱 Hozirda **Laravel** frameworkini o'rganmoqdaman.
 - 🤝 Yangi loyihalar uchun hamkorlik qilishga tayyorman.
