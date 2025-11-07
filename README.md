@@ -5,11 +5,11 @@
 
 ## 👨‍💻 Men Haqimda
 
-- 🌱 Hozirda **Laravel** va **Next.js** kabi framework'larni o'rganmoqdaman.
+- 🌱 Hozirda **Laravel** frameworkini o'rganmoqdaman.
 - 🤝 Yangi loyihalar uchun hamkorlik qilishga tayyorman.
-- 💬 Meni **Php, Laravel, Frontend yoki Linux** haqida so'rashingiz mumkin.
+- 💬 Mendan **Php, Laravel, Frontend yoki Linux** haqida so'rashingiz mumkin.
 - 📫 Menga murojaat qilish: **ahmadjon0125@gmail.com**
-- ⚡ Fun fact: **Men o'zimni boy deb hisoblayman! 😂**
+- ⚡ Qiziq fakt: **Men o'zimni boy deb hisoblayman! 😂**
 
 ---
 
@@ -19,7 +19,7 @@
         <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     
-<a href="https://t.me/Ahmadjon0125" target="_blank">
+<a href="https://t.me/ahmadjon_norimqulov" target="_blank">
         <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
     </a>
 
