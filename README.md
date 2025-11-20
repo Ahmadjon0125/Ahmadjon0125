@@ -74,7 +74,7 @@
 
 ### 🔥 GitHub Streaks
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahmadjon0125&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ahmadjon0125&theme=dark&hide_border=true&date=2025-11-20-1707)](https://git.io/streak-stats)
 
 
 
