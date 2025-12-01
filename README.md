@@ -62,11 +62,9 @@
 
 ## 📈 GitHub Statistikam
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ahmadjon0125&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Ahmadjon GitHub Stats" />
-    
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadjon0125&layout=compact&theme=dark&langs_count=6" alt="Ahmadjon Top Languages" />
-</p>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ahmadjon0125&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ahmadjon0125&layout=compact&theme=dark&langs_count=6)
 
 ---
 
