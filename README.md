@@ -72,6 +72,6 @@
 
 ### 🔥 GitHub Streaks
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ahmadjon0125&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ahmadjon0125)](https://git.io/streak-stats)
 
 
