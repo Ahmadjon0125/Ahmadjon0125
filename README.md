@@ -10,9 +10,9 @@
 
 
 
-- 🌱 Hozirda **Laravel** frameworkini o'rganmoqdaman.
+- 🌱 Hozirda **AI** bo'yicha o'rganmoqdaman .
 - 🤝 Yangi loyihalar uchun hamkorlik qilishga tayyorman.
-- 💬 Mendan **Php, Laravel, Frontend yoki Linux** haqida so'rashingiz mumkin.
+- 💬 Mendan **Numpy, Pandas, Frontend yoki Linux** haqida so'rashingiz mumkin.
 - 📫 Menga murojaat qilish: **ahmadjon0125@gmail.com**
 - ⚡ Qiziq fakt: **Men o'zimni boy deb hisoblayman! 😂**
 
