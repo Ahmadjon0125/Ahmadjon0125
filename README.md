@@ -14,7 +14,7 @@
 - 🤝 Yangi loyihalar uchun hamkorlik qilishga tayyorman.
 - 💬 Mendan **Numpy, Pandas, Frontend yoki Linux** haqida so'rashingiz mumkin.
 - 📫 Menga murojaat qilish: **ahmadjon0125@gmail.com**
-- ⚡ Qiziq fakt: **Men o'zimni boy deb hisoblayman! 😂**
+- ⚡ Qiziq fakt: **Men bilmayman**
 
 ---
 
