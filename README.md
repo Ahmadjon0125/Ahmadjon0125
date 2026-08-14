@@ -69,19 +69,4 @@
 
 ---
 
-## 📈 GitHub Statistikam
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmadjon0125&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadjon0125&layout=compact&theme=dark&langs_count=6)
-
-
----
-
-
-
-### 🔥 GitHub Streaks
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ahmadjon0125)](https://git.io/streak-stats)
-
 
