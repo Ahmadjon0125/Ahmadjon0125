@@ -4,7 +4,7 @@
 
 ---
 <h2 style="text-align: left;">
-    👨‍💻 Men Haqimda
+    👨‍💻 About me
 
 </h2>
 
